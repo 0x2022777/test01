@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Sweet App
+title = Test App
 
 # (str) Package name
-package.name = sweetapp
+package.name = testapp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==1.9.0
+requirements = python3,kivy==2.0.0
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
